@@ -30,7 +30,7 @@ Also, communication is the most important key to making progress in the software
 <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white">
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/Mongo-6DB33F?style=for-the-badge&logo=mongo&logoColor=white">
-  
+<img src="https://img.shields.io/badge/kafka-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white">
 </blockquote>
 
 <blockquote>
