@@ -36,7 +36,7 @@ Also, communication is the most important key to making progress in the software
 <blockquote>
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
-<img src="https://img.shields.io/badge/Eclipse-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+<img src="https://img.shields.io/badge/Eclipse-0078D4?style=for-the-badge&logo=eclipse&logoColor=white">
 </blockquote>
 
 <br>
