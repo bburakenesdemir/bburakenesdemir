@@ -60,7 +60,7 @@ Also, communication is the most important key to making progress in the software
 
 You can reach me on these platforms. <g-emoji class="g-emoji" alias="point_down" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f447.png">👇</g-emoji> <br>
 <blockquote>
-<p dir="auto"><a href="https://www.linkedin.com/in/pelinhangisi/" rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> <a href="mailto:pelinhangisi@gmail.com" title="Send me an email!"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> <a href="https://app.patika.dev/pelinncee" rel="nofollow"><img src="https://img.shields.io/badge/Patika.dev-FABE55?style=for-the-badge&logo=&logoColor=white"></p>
+<p dir="auto"><a href="https://www.linkedin.com/in/burak-enes-demir-58a986120/" rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> <a href="mailto:bburakenesdemir@gmail.com" title="Send me an email!"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> 
 </blockquote>
 
 <br>
@@ -70,7 +70,7 @@ You can reach me on these platforms. <g-emoji class="g-emoji" alias="point_down"
 ## 📈 GitHub Stats 
 
 
-<img src="https://github-profile-trophy.vercel.app/?username=pelinhangisi&amp;theme=onedark"> 
+<img src="https://github-profile-trophy.vercel.app/?username=bburakenesdemir&amp;theme=onedark"> 
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pelinhangisi&amp;layout=compact&amp;theme=dark">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bburakenesdemir&amp;layout=compact&amp;theme=dark">
 
