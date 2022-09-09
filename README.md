@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)]([link](https://github.com/bburakenesdemir)) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)]([link](https://www.instagram.com/burakenesdemir/?hl=tr)) 
+
 ![Burak's GitHub stats](https://github-readme-stats.vercel.app/api?username=bburakenesdemir&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bburakenesdemir&layout=compact)](https://github.com/bburakenesdemir/github-readme-stats)
