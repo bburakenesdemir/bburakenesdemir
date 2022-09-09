@@ -20,6 +20,9 @@ Also, communication is the most important key to making progress in the software
 <blockquote>
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"> 
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Gitlab-0078D4?style=for-the-badge&logo=gitlab&logoColor=white">
+<img src="https://img.shields.io/badge/Bitbucket-100000?style=for-the-badge&logo=bitbucket&logoColor=white">
+
 </blockquote>
 
 <blockquote>
@@ -36,6 +39,11 @@ Also, communication is the most important key to making progress in the software
 
 <blockquote>
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
+<img src="https://img.shields.io/badge/Eclipse-0078D4?style=for-the-badge&logo=eclipse&logoColor=white">
+</blockquote>
+
+<blockquote>
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
 <img src="https://img.shields.io/badge/Eclipse-0078D4?style=for-the-badge&logo=eclipse&logoColor=white">
 </blockquote>
