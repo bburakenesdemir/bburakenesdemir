@@ -44,8 +44,8 @@ Also, communication is the most important key to making progress in the software
 </blockquote>
 
 <blockquote>
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
-<img src="https://img.shields.io/badge/Eclipse-0078D4?style=for-the-badge&logo=eclipse&logoColor=white">
+<img src="https://img.shields.io/badge/Sourcetree-000000.svg?style=for-the-badge&logo=sourcetree&logoColor=white">
+<img src="https://img.shields.io/badge/Gitkraken-0078D4?style=for-the-badge&logo=gitkraken&logoColor=white">
 </blockquote>
 
 <br>
