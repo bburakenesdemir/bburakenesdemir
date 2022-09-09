@@ -20,7 +20,6 @@ Also, communication is the most important key to making progress in the software
 <blockquote>
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"> 
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
 </blockquote>
 
 <blockquote>
@@ -31,6 +30,8 @@ Also, communication is the most important key to making progress in the software
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/Mongo-6DB33F?style=for-the-badge&logo=mongo&logoColor=white">
 <img src="https://img.shields.io/badge/kafka-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white">
+<img src="https://img.shields.io/badge/redis-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=red">
+
 </blockquote>
 
 <blockquote>
