@@ -30,7 +30,7 @@ Also, communication is the most important key to making progress in the software
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/Mongodb-6DB33F?style=for-the-badge&logo=mongodb&logoColor=white">
 <img src="https://img.shields.io/badge/kafka-%23FF6600.svg?&style=for-the-badge&logo=apache-kafka&logoColor=white">
-<img src="https://img.shields.io/badge/redis-ED8B00.svg?&style=for-the-badge&logo=redis&logoColor=red">
+<img src="https://img.shields.io/badge/redis-316192.svg?&style=for-the-badge&logo=redis&logoColor=red">
 
 </blockquote>
 
