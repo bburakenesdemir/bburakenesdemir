@@ -69,10 +69,3 @@ You can reach me on these platforms. <g-emoji class="g-emoji" alias="point_down"
 <br>
 
 
-## 📈 GitHub Stats 
-
-
-<img src="https://github-profile-trophy.vercel.app/?username=bburakenesdemir&amp;theme=onedark"> 
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bburakenesdemir&amp;layout=compact&amp;theme=dark">
-
